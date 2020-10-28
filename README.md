@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Welcome to BitRapture's GitHub page
+Welcome to this small cozy place of spaghetti code and warnings.
