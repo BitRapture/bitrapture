@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to this small cozy place of spaghetti code and warnings.
+Welcome to my GitHub profile :)
 
-Many smooth brain moments to be shared :)
+I enjoy creating all sorts of projects, ranging from emulators, to games, to raytracers to game engines.
 
 ### Languages I am proficient in:
 - C
@@ -11,7 +11,5 @@ Many smooth brain moments to be shared :)
 - HTML/CSS
 ### Languages I know well:
 - LUA
-- Python
-- 6502 ASM 
-### Languages I'm learning:
 - C#
+- 6502 ASM 
