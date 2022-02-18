@@ -9,6 +9,8 @@ I enjoy creating all sorts of projects, ranging from emulators, to games, to ray
 - C++
 - JavaScript
 - HTML/CSS
+- GML :)
+
 ### Languages I know well:
 - LUA
 - C#
